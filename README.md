@@ -1,14 +1,14 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-USERNAME.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-USERNAME)
+![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-nodejs-02sovi1bif/workflows/GitHub%20Classroom%20Workflow/badge.svg)
 
 # hft-asgmt-nodejs
 
 ## TODO
 
-- [ ] Install and use the `sqlite3` package
+- [X] Install and use the `sqlite3` package
 - [ ] Use names for your form fields: `username` for the username and `message` for the textarea
 - [ ] parse json via express.json() GOOGLE IT!
-- [ ] Iterate over all items in your database and show them in your table
-- [ ] Refactor the `GET /` route to deliver your index page with data from the database
+- [X] Iterate over all items in your database and show them in your table
+- [X] Refactor the `GET /` route to deliver your index page with data from the database
 - [ ] Create a route, for `POST /add-entry` to receive form data
 
 ## Hints
