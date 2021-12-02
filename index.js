@@ -12,7 +12,7 @@ app.set('view engine', 'ejs');
 app.use('/public', express.static(process.cwd() + '/public'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-
+//aaa
 
 // routes
 app.get('/', function (req, res) {
